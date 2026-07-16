@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/scenery-scene-lit-shadow",
+    "version":  "1.0.0",
+    "description":  "",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
