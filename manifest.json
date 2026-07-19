@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.scenery.scenery-scene-lit-shadow",
+  "id": "com.hereliesaz.azphalt.scene-lit-shadow",
   "name": "Scene-Lit Shadow",
   "version": "1.0.0",
   "kind": "asset",
