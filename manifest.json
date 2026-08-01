@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Aims a virtual key light along the shot's own light direction, so the layer casts its shadow the same way everything else in frame does.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
